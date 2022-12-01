@@ -1,0 +1,3 @@
+loaded agent
+saved agent at epoch 0
+{'ramping': 0.8745105, '1-load_factor': 1.0423961843855274, 'average_daily_peak': 0.9859361, 'peak_demand': 0.9721738, 'net_electricity_consumption': 0.98126495, 'carbon_emissions': 0.98409134, 'total': 0.9733954861065927, 'coordination_score': 0.968754156574783}

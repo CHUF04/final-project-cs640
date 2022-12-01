@@ -40,7 +40,14 @@ CityLearn may still work with some earlier versions of these libraries, but we h
     buildings_states_actions_space.json
 
     models
-        └── sac-train.txt
+        └── sac_model_multiagent
+
+    results
+        ├── sac-train.txt
+
+        ├── sac-validate.txt
+
+        └── sac-test.txt
 
     common
 

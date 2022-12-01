@@ -1,0 +1,5 @@
+loaded agent
+loaded agent
+loaded agent
+loaded agent
+{'ramping': 0.9814471006393433, '1-load_factor': 1.039359738180249, 'average_daily_peak': 1.0433576107025146, 'peak_demand': 1.055657148361206, 'net_electricity_consumption': 0.9844150543212891, 'carbon_emissions': 0.9864733815193176, 'total': 1.0151183389539866, 'coordination_score': 1.0299553994708281}
