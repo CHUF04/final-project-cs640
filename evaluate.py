@@ -5,7 +5,6 @@ import pickle
 costs = []
 for climate_zone in range(1, 5):
     # Load environment
-    climate_zone = 1
     buildings = ["Building_1", "Building_2", "Building_3", 
                 "Building_4", "Building_5", "Building_6", 
                 "Building_7", "Building_8", "Building_9"]
